@@ -1,4 +1,4 @@
-![Header](https://github.com/staticshreyas/staticshreyas/blob/master/_Logo.png "Header")
+![Header](https://github.com/SudarshanProCoder/SudarshanProCoder/blob/main/LOGO.png "Header")
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sudarshan-date-49a80b204"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp; 
@@ -7,9 +7,9 @@
 </p>
 
 
-### <img src="https://github.com/vishant-mehta/vishant-mehta/blob/main/hello.gif" width="29px"> Hey folks! <br><br>
+### <img src="https://github.com/SudarshanProCoder/SudarshanProCoder/blob/main/hello.gif" width="29px"> Hey folks! <br><br>
 
-<img align="right" alt="GIF" src="https://github.com/staticshreyas/staticshreyas/blob/master/coder.gif?raw=true" width="500" height="340" />
+<img align="right" alt="GIF" src="https://github.com/SudarshanProCoder/SudarshanProCoder/blob/main/coder.gif?raw=true" width="500" height="340" />
 
 - 🤖 Completed Diploma In Information Technology Engineering student at Bharati Vidyapeeth College of Engineering, Navi Mumbai. I am a self-motivated, creative and technically sound computer engineering student with a keen interest in learning new technologies.
 
@@ -36,12 +36,11 @@
 <h1 align="center"> 🔥 Statistics </h1>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=staticshreyas&hide=prs&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515"/><br><br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=staticshreyas&theme=dark" /><br><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=staticshreyas&layout=compact&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api?username=SudarshanProCoder&hide=prs&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515"/><br><br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudarshanProCoder&theme=dark" /><br><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudarshanProCoder&layout=compact&theme=radical" />
 
-<img src="https://activity-graph.herokuapp.com/graph?username=staticshreyas&theme=radical&bg_color=00000000&point=00000000&line=FC6401&hide_border=true&custom_title=Keep+Exploring,+Learning+and+Contributing+away...&color=969696&area=true&area_color=FC6401"/>
-	<img src="https://github.com/staticshreyas/staticshreyas/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=SudarshanProCoder&theme=radical&bg_color=00000000&point=00000000&line=FC6401&hide_border=true&custom_title=Keep+Exploring,+Learning+and+Contributing+away...&color=969696&area=true&area_color=FC6401"/>
+	<img src="https://github.com/SudarshanProCoder/SudarshanProCoder/blob/main/github-contribution-grid-snake.svg"/>
 
 </p>
-
