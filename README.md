@@ -1,4 +1,4 @@
-![Header](https://github.com/SudarshanProCoder/SudarshanProCoder/blob/main/LOGO.png "Header")
+![Header](https://github.com/SudarshanProCoder/SudarshanProCoder/blob/main/Logo.png "Header")
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sudarshan-date-49a80b204"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp; 
