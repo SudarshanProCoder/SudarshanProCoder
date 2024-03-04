@@ -11,7 +11,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/SudarshanProCoder/SudarshanProCoder/blob/main/coder.gif?raw=true" width="500" height="340" />
 
-- 🤖 Completed Diploma In Information Technology Engineering student at Bharati Vidyapeeth College of Engineering, Navi Mumbai. I am a self-motivated, creative and technically sound computer engineering student with a keen interest in learning new technologies.
+- 🤖 Completed Diploma In Information Technology Engineering student at Bharati Vidyapeeth College of Engineering, Navi Mumbai & pursuing computer engineering at Shah And Anchor College of Engineering. I am a self-motivated, creative and technically sound computer engineering student with a keen interest in learning new technologies.
 
 - 👉 My skills spans over Web Development, Machine Learning and AI, App Development.
 
@@ -40,7 +40,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudarshanProCoder&theme=dark" /><br><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudarshanProCoder&layout=compact&theme=radical" />
 
-<img src="https://activity-graph.herokuapp.com/graph?username=SudarshanProCoder&theme=radical&bg_color=00000000&point=00000000&line=FC6401&hide_border=true&custom_title=Keep+Exploring,+Learning+and+Contributing+away...&color=969696&area=true&area_color=FC6401"/>
-	<img src="https://github.com/SudarshanProCoder/SudarshanProCoder/blob/main/github-contribution-grid-snake.svg"/>
+
+<img src="https://github.com/SudarshanProCoder/SudarshanProCoder/blob/main/github-contribution-grid-snake.svg"/>
 
 </p>
